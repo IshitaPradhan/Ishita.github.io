@@ -196,3 +196,12 @@ button:hover{
         font-size: 40px;
     }
 }
+ @media(max-width: 1000px){
+    body{
+        background-image: url(landing-slisder-img-2_cropped.jpg);
+        width: 100%;
+        align-items: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
